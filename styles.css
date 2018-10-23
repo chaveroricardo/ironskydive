@@ -89,8 +89,13 @@ header{
     text-decoration: none;
 }
 #structure{
-
 }
+
+.service-box{
+    font-size: 1.7em;
+    text-align: center;
+}
+
 #team{
 
 }
