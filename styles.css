@@ -69,7 +69,8 @@ header{
 }
 
 #general-information{
-
+    background-color: rgb(25,33,41);
+    color: white;
 }
 
 #structure{
