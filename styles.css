@@ -131,11 +131,6 @@ h5{
     color: white;
 }
 
-.section3{
-    width: 60%;
-    margin: 10px;
-    text-align: center;
-}
 .section-text{
     font-size: 1.9em;
     text-align: center;
@@ -147,6 +142,13 @@ h5{
     font-size: 1.5em;
     font-weight: 700;
 }
+.hr{
+    margin-top: 20px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-left: auto;
+    width: 40%;
+}
 
 #schedule{
 
@@ -157,6 +159,9 @@ footer{
     font-size: 1.9em;
     background-color: rgb(25,33,41);
     color: rgb(255, 255, 255);
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 25px;
 }
 
 .link-footer a{
@@ -167,6 +172,7 @@ footer{
 .address{
     font-style: normal;
     font-size: 0.8em;
+    margin-bottom: 25px;
 }
 
 .container{
@@ -174,3 +180,4 @@ footer{
     margin: 0 auto;
     padding: 75px 0;
 }
+
