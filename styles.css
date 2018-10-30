@@ -117,3 +117,19 @@ header{
 
 }
 
+footer{
+    text-align: center;
+    font-size: 1.9em;
+    background-color: rgb(25,33,41);
+    color: rgb(255, 255, 255);
+}
+
+.link-footer a{
+    color: rgb(67,163,230);
+    text-decoration: none;
+}
+
+.address{
+    font-style: normal;
+    font-size: 0.8em;
+}
