@@ -12,17 +12,16 @@ body{
     font-weight: 300;
 }
 
-h1 h2 h3 h4 h5{
-    font-family: Roboto Condensed;
-}
 
 h1{
+    font-family: Roboto Condensed;
     font-size: 9em;
     text-align: center;
     text-transform: uppercase;
 }
 
 h2 {
+    font-family: Roboto Condensed;
     font-size: 5em;
     text-align: center;
     text-transform: uppercase;
@@ -32,16 +31,19 @@ h2 {
 }
 
 h3{
+    font-family: Roboto Condensed;
     font-size: 4.2em;
     text-align: center;
 }
 
 h4{
+    font-family: Roboto Condensed;
     font-size: 1.5em;
     letter-spacing: 0.4px;
 }
 
 h5{
+    font-family: Roboto Condensed;
     font-size: 1.2em;
 }
 
@@ -50,7 +52,7 @@ h5{
     color: rgb(0,0,0);
 }
 
-.nav-bar-item > a{
+.nav-bar-item a{
     color: white;
     text-decoration-line: none;
     font-size: 2em;
@@ -73,13 +75,13 @@ header{
     color: white;
 }
 
-.text > p{
+.text p{
     font-size: 2em;
     font-weight: 100;
     text-align: center;
 }
 
-.link-btn > a{
+.link-btn a{
     background-color: rgb(67,163,230);
     color: white;
     font-family: Roboto Condensed;
@@ -88,12 +90,12 @@ header{
     text-align: center;
     text-decoration: none;
 }
-#structure > img{
+#structure img{
     height: 125px;
     width: 125px;
 }
 
-.service-box > article{
+.service-box article{
     font-size: 1.7em;
     text-align: center;
  }
@@ -103,12 +105,12 @@ header{
     color: white;
 }
 
-.section-text > p{
+.section-text p{
     font-size: 1.9em;
     text-align: center;
 }
 
-.member-name >b{
+.member-name b{
     font-size: 1.5em;
     font-weight: 700;
 }
