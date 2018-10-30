@@ -131,9 +131,14 @@ h5{
     color: white;
 }
 
+.section3{
+    width: 60%;
+    margin: 10px;
+}
 .section-text{
     font-size: 1.9em;
     text-align: center;
+
 }
 
 .member-name{
