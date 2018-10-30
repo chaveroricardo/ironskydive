@@ -105,12 +105,12 @@ header{
     color: white;
 }
 
-.section-text p{
+.section-text{
     font-size: 1.9em;
     text-align: center;
 }
 
-.member-name b{
+.member-name{
     font-size: 1.5em;
     font-weight: 700;
 }
