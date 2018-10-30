@@ -88,18 +88,31 @@ header{
     text-align: center;
     text-decoration: none;
 }
-#structure{
+#structure img{
+    height: 125px;
+    width: 125px;
 }
 
-.service-box{
+.service-box article{
     font-size: 1.7em;
     text-align: center;
-    
-}
+ }
 
 #team{
-
+    background-color: rgb(25,33,41);
+    color: white;
 }
+
+.section-text{
+    font-size: 1.9em;
+    text-align: center;
+}
+
+.member-name{
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
 #schedule{
 
 }
